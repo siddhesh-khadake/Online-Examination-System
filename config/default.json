@@ -1,0 +1,12 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb://localhost/onlineexamsystem"
+    },
+    "jwt": {
+        "secret" : "Examination Portal Application"
+    },
+    "mail-credentials" : {
+        "userid" :"siddheshkhadake@gmail.com",
+        "password" : "Prince#prime21"
+    }
+}
